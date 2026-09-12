@@ -1,0 +1,9 @@
+[
+  {
+    "id": "demo_001",
+    "image_path": "demo_seed.png",
+    "question": "The diagram shows a line segment from A to B with a marked midpoint M. If AM is 3 units, what is the length of AB?",
+    "answer": "6",
+    "solution": "Because M is the midpoint, AM equals MB. Therefore AB equals 3 plus 3, which is 6."
+  }
+]

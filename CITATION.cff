@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use AgSynth, please cite the accompanying paper."
+title: "AgSynth: A Multi-Agent Reverse Synthesis Framework for Multimodal Mathematical Reasoning Data Generation"
+type: software
+version: 1.0.0
+date-released: 2026-09-12
+license: Apache-2.0
+authors:
+  - family-names: Wang
+    given-names: Yaxuan
+  - family-names: Zeng
+    given-names: Lingfeng
+  - family-names: Hu
+    given-names: Jiatu
+  - family-names: Lin
+    given-names: Guojie
+  - family-names: Yang
+    given-names: Boyu
+  - family-names: Zhao
+    given-names: Bing
+  - family-names: Qu
+    given-names: Lin
+  - family-names: Wei
+    given-names: Hu

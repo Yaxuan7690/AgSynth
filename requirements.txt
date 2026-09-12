@@ -1,0 +1,4 @@
+openai>=1.12,<3
+pillow>=10.2,<12
+matplotlib>=3.8,<4
+python-dotenv>=1.0,<2
